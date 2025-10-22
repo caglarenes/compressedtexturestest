@@ -1,3 +1,5 @@
+import "pixi.js/ktx2";
+import "pixi.js/basis";
 import { setEngine } from "./app/getEngine";
 import { LoadScreen } from "./app/screens/LoadScreen";
 import { MainScreen } from "./app/screens/main/MainScreen";
